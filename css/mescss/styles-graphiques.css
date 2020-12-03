@@ -2,13 +2,18 @@
 
 .navigation-principale li{
     list-style: none;
+
 }
 
 .navigation-principale>ul>li>a{
+    font-family: "Raleway Thin",sans-serif;
     display: block;
     border-top: white solid 1px;
     padding: 20px 20px;
     text-align: center;
+}
+.navigation-principale>ul>li>a:hover{
+    font-family: "Raleway Light",sans-serif;
 }
 
 .navigation-principale a{
@@ -51,11 +56,51 @@
     width: 375px;
 }
 .navigation-principale>ul>li:nth-child(0n+5){
-
+    background-color: #82A8AD;
 }
 .navigation-principale>ul>li:nth-child(0n+6){
-
+    background-color: #033054;
 }
-.navigation-principale>ul>li:nth-child(0n+7){
 
+/* Page d'accueil */
+    /* Images accueil */
+.titre-accueil{
+    height: 246px;
+    width: 375px;
+    background-color: #06133D;
+    border-top: white solid 1px;
+}
+.titre-accueil>h2{
+    margin-top: 70px;
+    margin-bottom: 15px;
+}
+
+.slogan{
+    background-image: url("/projetS1/img/accueilgrand.jpg");
+}
+.art1{
+    background-image: url("/projetS1/img/blackmirrorgrand.jpg");
+}
+
+.art2{
+    background-image: url("/projetS1/img/stockagegrand.jpg");
+}
+
+.art3{
+    background-image: url("/projetS1/img/avenirgrand.jpg");
+}
+
+.art4{
+    background-color: #033054;
+}
+
+    /* texte présnetation*/
+body.accueil p{
+    margin: 16px;
+}
+
+body.accueil p>a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #06133D;
 }

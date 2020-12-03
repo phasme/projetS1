@@ -1,7 +1,7 @@
 /* Importations polices et logos*/
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&display=swap');
 
 /*
 couleurs :
@@ -11,10 +11,44 @@ Bleu foncé : #033054
 Bleu pâle : #82A8AD
 
 */
-
+/* Menu */
 .navigation-principale{
-    font-family: "Raleway Thin",sans-serif;
     background-color: #06133D;
     font-size: 20px;
     color: white;
+}
+/* images accueil */
+.titre-accueil{
+    color: white;
+    text-align: center;
+}
+
+.titre-accueil>h2{
+    font-family: "Raleway ExtraBold", serif;
+    font-size: 35px;
+}
+
+.titre-accueil>h2>a, .titre-accueil>h2>a:visited{
+    text-decoration: none;
+    color: white;
+}
+.titre-accueil>h2>a:hover{
+    color: #82A8AD;
+}
+
+.titre-accueil h3{
+    font-family: "Raleway Thin", sans-serif;
+}
+
+/* texte presentation */
+.titre-presentation{
+    font-family: "Raleway Thin",sans-serif;
+    color: #06133D;
+    text-align: center;
+}
+
+body.accueil p{
+    font-family: "Alegreya Sans",sans-serif;
+    color: #06133D;
+    font-size: 16px;
 }

@@ -19,11 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="Menu déroulant sans logo">
+    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="Menu déroulant mise a jour">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-mise-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-mise-en-page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo_rectangle_BM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/accueil.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/accueil.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avenir.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/avenir.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blackmirror.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blackmirror.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/stockage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/stockage.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606988053894</updated>
-      <workItem from="1606988054973" duration="13786000" />
+      <workItem from="1606988054973" duration="13877000" />
+      <workItem from="1607024692094" duration="9302000" />
     </task>
     <task id="LOCAL-00001" summary="Premier test">
       <created>1606989442040</created>
@@ -80,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607007547141</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Menu déroulant mise a jour">
+      <created>1607012543284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607012543284</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Menu déroulant mise a jour">
+      <created>1607012549747</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607012549747</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,20 +115,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Premier test" />
     <MESSAGE value="Menu déroulant sans logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu déroulant sans logo" />
+    <MESSAGE value="Menu déroulant mise a jour" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu déroulant mise a jour" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="126" key="FileChooserDialogImpl" timestamp="1607002595184">
+    <state x="617" y="126" key="FileChooserDialogImpl" timestamp="1607025076544">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="617" y="126" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607002595184" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606989447931">
+    <state x="617" y="126" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607025076544" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607012559442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606989447931" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607012559442" />
   </component>
 </project>

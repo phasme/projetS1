@@ -4,6 +4,11 @@ body{
 }
 
 /* Menu */
+
+.navigation-principale{
+    position: fixed;
+    width: 375px;
+}
 .navigation-principale ul{
     padding: 0;
     margin: 0;
