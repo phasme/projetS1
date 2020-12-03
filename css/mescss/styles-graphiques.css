@@ -1,0 +1,32 @@
+/* Menu */
+
+.navigation-principale li{
+    list-style: none;
+}
+
+.navigation-principale>ul>li>a{
+    display: block;
+    border-top: white solid 1px;
+    padding: 20px 20px;
+    text-align: center;
+}
+
+.navigation-principale a{
+    color: white;
+    text-decoration: none;
+}
+
+.navigation-principale>ul{
+    display: none;
+}
+
+.navigation-principale:hover>ul{
+    display: block;
+}
+
+.navigation-principale>a{
+    display: block;
+    width: 160px;
+    height: 53px
+}
+
