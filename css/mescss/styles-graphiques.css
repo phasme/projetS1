@@ -24,9 +24,38 @@
     display: block;
 }
 
-.navigation-principale>a{
+.navigation-principale>a>img{
     display: block;
-    width: 160px;
-    height: 53px
+    width: 180px;
+    height: 60px
 }
 
+.navigation-principale>ul>li:nth-child(0n+1){
+    background-image: url("/projetS1/img/accueil.jpg");
+    height: 65px;
+    width: 375px;
+}
+.navigation-principale>ul>li:nth-child(0n+2){
+    background-image: url("/projetS1/img/blackmirror.jpg");
+    height: 65px;
+    width: 375px;
+}
+.navigation-principale>ul>li:nth-child(0n+3){
+    background-image: url("/projetS1/img/stockage.jpg");
+    height: 65px;
+    width: 375px;
+}
+.navigation-principale>ul>li:nth-child(0n+4){
+    background-image: url("/projetS1/img/avenir.jpg");
+    height: 65px;
+    width: 375px;
+}
+.navigation-principale>ul>li:nth-child(0n+5){
+
+}
+.navigation-principale>ul>li:nth-child(0n+6){
+
+}
+.navigation-principale>ul>li:nth-child(0n+7){
+
+}
