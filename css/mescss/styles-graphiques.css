@@ -36,22 +36,22 @@
 }
 
 .navigation-principale>ul>li:nth-child(0n+1){
-    background-image: url("/projetS1/img/accueil.jpg");
+    background-image: url("../../img/accueil.jpg");
     height: 65px;
     width: 375px;
 }
 .navigation-principale>ul>li:nth-child(0n+2){
-    background-image: url("/projetS1/img/blackmirror.jpg");
+    background-image: url("../../img/blackmirror.jpg");
     height: 65px;
     width: 375px;
 }
 .navigation-principale>ul>li:nth-child(0n+3){
-    background-image: url("/projetS1/img/stockage.jpg");
+    background-image: url("../../img/stockage.jpg");
     height: 65px;
     width: 375px;
 }
 .navigation-principale>ul>li:nth-child(0n+4){
-    background-image: url("/projetS1/img/avenir.jpg");
+    background-image: url("../../img/avenir.jpg");
     height: 65px;
     width: 375px;
 }
@@ -76,18 +76,18 @@
 }
 
 .slogan{
-    background-image: url("/projetS1/img/accueilgrand.jpg");
+    background-image: url("../../img/accueilgrand.jpg");
 }
 .art1{
-    background-image: url("/projetS1/img/blackmirrorgrand.jpg");
+    background-image: url("../../img/blackmirrorgrand.jpg");
 }
 
 .art2{
-    background-image: url("/projetS1/img/stockagegrand.jpg");
+    background-image: url("../../img/stockagegrand.jpg");
 }
 
 .art3{
-    background-image: url("/projetS1/img/avenirgrand.jpg");
+    background-image: url("../../img/avenirgrand.jpg");
 }
 
 .art4{
