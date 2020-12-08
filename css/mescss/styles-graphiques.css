@@ -95,8 +95,8 @@
 }
 
     /* texte présnetation*/
-body.accueil p{
-    margin: 16px;
+body.accueil>section>article p{
+    margin: 20px;
 }
 
 body.accueil p>a{
@@ -104,3 +104,27 @@ body.accueil p>a{
     font-weight: bold;
     color: #06133D;
 }
+
+/* Footer */
+
+footer{
+    background-color: #06133D;
+    margin-top: 0;
+    padding: 10px;
+}
+
+.nom-prénom{
+    width: 50px;
+}
+
+.contact{
+    width: 50px;
+}
+
+
+.nom-prénom, .mention-légale, .contact{
+    display: table-cell;
+}
+
+
+

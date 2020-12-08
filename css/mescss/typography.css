@@ -47,8 +47,38 @@ Bleu pâle : #82A8AD
     text-align: center;
 }
 
-body.accueil p{
+body.accueil>section>article p{
     font-family: "Alegreya Sans",sans-serif;
     color: #06133D;
     font-size: 16px;
+}
+/* Footer */
+
+footer>div>p{
+    color: white;
+}
+
+.nom-prénom>p{
+    font-family: Raleway, sans-serif;
+    font-size: 12px;
+    width: 50px;
+}
+
+.mention-légale>p{
+    font-family: "Raleway Thin", sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+
+.contact>a:link, .contact>a:visited{
+    color: white;
+}
+.contact>a:hover{
+    color: #82A8AD;
+}
+
+.contact>a{
+    font-family: Raleway, sans-serif;
+    text-decoration: none;
+    font-size: 12px;
 }

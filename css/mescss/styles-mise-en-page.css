@@ -17,5 +17,16 @@ article.imgaccueil{
     padding-top: 60px;
 }
 
+/* Footer */
+footer img{
+    height: 60px;
+    width: 106px;
+    margin-left: 120px;
+
+}
+.mention-légale, .nom-prénom, .contact{
+    margin: 4px;
+}
+
 
 
