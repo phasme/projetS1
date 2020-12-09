@@ -82,3 +82,67 @@ footer>div>p{
     text-decoration: none;
     font-size: 12px;
 }
+
+/*pages*/
+p{
+    font-family: "Alegreya Sans", sans-serif;
+}
+
+.blanc{
+    color: #06133D;
+}
+.bleu-clair{
+    background-color: #82A8AD;
+    color: #06133D;
+}
+
+.bleu-foncé{
+    background-color: #033054;
+    color: white;
+}
+
+.bleu-nuit{
+    background-color: #06133D;
+    color: white;
+}
+
+.chapeau{
+    font-family: "Alegreya Sans Light", sans-serif;
+    color: #06133D;
+}
+article a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.bleu-foncé a, .bleu-nuit a{
+    color: white;
+}
+
+a{
+    color: #06133D;
+}
+
+.blackmirror h1,.stockage h1, .avenir h1{
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-top: 70px;
+    font-family: "Raleway ExtraBold" , sans-serif;
+    color: #06133D;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.blackmirror h2,.stockage h2, .avenir h2{
+    color: #06133D;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: Raleway, sans-serif;
+    margin-top: 10px;
+}
+
+.blackmirror h3,.stockage h3, .avenir h3{
+    font-family: "Alegreya sans", sans-serif;
+    font-weight: bold;
+    margin-left: 20px;
+}
