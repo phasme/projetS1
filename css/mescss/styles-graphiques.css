@@ -32,7 +32,8 @@
 .navigation-principale>a>img{
     display: block;
     width: 180px;
-    height: 60px
+    height: 60px;
+    margin: 0;
 }
 
 .navigation-principale>ul>li:nth-child(0n+1){
@@ -94,7 +95,7 @@
     background-color: #033054;
 }
 
-    /* texte présnetation*/
+    /* texte présentation*/
 body.accueil>section>article p{
     margin: 20px;
 }
@@ -113,18 +114,6 @@ footer{
     padding: 10px;
 }
 
-.nom-prénom{
-    width: 50px;
-}
-
-.contact{
-    width: 50px;
-}
-
-
-.nom-prénom, .mention-légale, .contact{
-    display: table-cell;
-}
 
 /*pages*/
 

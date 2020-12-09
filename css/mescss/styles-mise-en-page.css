@@ -24,19 +24,53 @@ footer img{
     margin-left: 120px;
 
 }
+
+footer>div>p{
+    margin: 0;
+}
 .mention-légale, .nom-prénom, .contact{
     margin: 4px;
 }
+
+.nom-prénom{
+    width: 50px;
+}
+
+.contact{
+    width: 50px;
+}
+
+
+.nom-prénom, .mention-légale, .contact{
+    display: table-cell;
+}
+
 
 /*pages*/
 
 img{
     width: 250px;
     height: 166px;
+    margin-left: 21px;
+    margin-top: 10px;
+    margin-bottom: 10px ;
 }
 
 .bleu-clair>p, .bleu-foncé>p, .bleu-nuit>p, p{
+    margin: 0 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bleu-clair, .bleu-foncé, .bleu-nuit, .blanc{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.blackmirror h3,.stockage h3, .avenir h3{
+    margin-left: 20px;
     margin-top: 0;
     margin-bottom: 0;
-    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }

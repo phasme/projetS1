@@ -144,5 +144,13 @@ a{
 .blackmirror h3,.stockage h3, .avenir h3{
     font-family: "Alegreya sans", sans-serif;
     font-weight: bold;
-    margin-left: 20px;
+}
+
+q{
+    quotes: none;
+    margin-left: 21px;
+    text-align: center;
+    font-family: "Alegreya Sans", sans-serif;
+    font-style: italic;
+    width: 250px;
 }
