@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="HTML pages black mirror et stockage">
+    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="HTML pages principales sans images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/avenir.html" beforeDir="false" afterPath="$PROJECT_DIR$/avenir.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blackmirror.html" beforeDir="false" afterPath="$PROJECT_DIR$/blackmirror.html" afterDir="false" />
@@ -77,7 +77,7 @@
       <workItem from="1607347971632" duration="2196000" />
       <workItem from="1607377492702" duration="7594000" />
       <workItem from="1607458592215" duration="13069000" />
-      <workItem from="1607508380471" duration="4588000" />
+      <workItem from="1607508380471" duration="5984000" />
     </task>
     <task id="LOCAL-00001" summary="Premier test">
       <created>1606989442040</created>
@@ -142,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607475229743</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="HTML pages principales sans images">
+      <created>1607530563021</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607530563021</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +175,8 @@
     <MESSAGE value="Footer" />
     <MESSAGE value="Autres pages" />
     <MESSAGE value="HTML pages black mirror et stockage" />
-    <option name="LAST_COMMIT_MESSAGE" value="HTML pages black mirror et stockage" />
+    <MESSAGE value="HTML pages principales sans images" />
+    <option name="LAST_COMMIT_MESSAGE" value="HTML pages principales sans images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="57" key="#SSH_Configurations" timestamp="1607348522719">
