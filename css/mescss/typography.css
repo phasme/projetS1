@@ -108,6 +108,7 @@ p{
 
 .chapeau{
     font-family: "Alegreya Sans Light", sans-serif;
+    font-style: italic;
     color: #06133D;
 }
 article a{
@@ -153,4 +154,12 @@ q{
     font-family: "Alegreya Sans", sans-serif;
     font-style: italic;
     width: 250px;
+}
+
+.art-suiv{
+    font-family: Raleway, sans-serif;
+}
+
+a.art-suiv:hover{
+    color: #82A8AD;
 }
