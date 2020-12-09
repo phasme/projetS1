@@ -19,13 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="Footer">
-      <change afterPath="$PROJECT_DIR$/avenir.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blackmirror.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scientifique.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stockage.html" afterDir="false" />
+    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="Autres pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blackmirror.html" beforeDir="false" afterPath="$PROJECT_DIR$/blackmirror.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stockage.html" beforeDir="false" afterPath="$PROJECT_DIR$/stockage.html" afterDir="false" />
     </list>
     <list id="af67d48e-ac9b-4c22-9fc8-d664185de670" name="Correction menu + Page accueil" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,7 @@
       <workItem from="1607088140785" duration="599000" />
       <workItem from="1607347971632" duration="2196000" />
       <workItem from="1607377492702" duration="7594000" />
-      <workItem from="1607458592215" duration="6301000" />
+      <workItem from="1607458592215" duration="12758000" />
     </task>
     <task id="LOCAL-00001" summary="Premier test">
       <created>1606989442040</created>
@@ -129,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607463795894</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Autres pages">
+      <created>1607465596470</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607465596470</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +158,8 @@
     <MESSAGE value="Menu déroulant mise a jour" />
     <MESSAGE value="Correction menu + Page accueil" />
     <MESSAGE value="Footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Footer" />
+    <MESSAGE value="Autres pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Autres pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="57" key="#SSH_Configurations" timestamp="1607348522719">
