@@ -16,10 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="corrections 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/styles-mise-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-mise-en-page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
+    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="Article scientifique + corrections">
       <change beforePath="$PROJECT_DIR$/scientifique.html" beforeDir="false" afterPath="$PROJECT_DIR$/scientifique.html" afterDir="false" />
     </list>
     <list id="af67d48e-ac9b-4c22-9fc8-d664185de670" name="Correction menu + Page accueil" comment="" />
@@ -189,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607556004111</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Article scientifique + corrections">
+      <created>1607562104204</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607562104204</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +261,8 @@
     <MESSAGE value="Couleurs et police etape 1" />
     <MESSAGE value="corrections" />
     <MESSAGE value="corrections 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrections 2" />
+    <MESSAGE value="Article scientifique + corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Article scientifique + corrections" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1607536908717">
