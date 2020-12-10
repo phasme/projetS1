@@ -21,8 +21,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="ajout logo retour accueil">
+    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="test police 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avenir.html" beforeDir="false" afterPath="$PROJECT_DIR$/avenir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="af67d48e-ac9b-4c22-9fc8-d664185de670" name="Correction menu + Page accueil" comment="" />
@@ -80,7 +82,7 @@
       <workItem from="1607458592215" duration="13069000" />
       <workItem from="1607508380471" duration="17551000" />
       <workItem from="1607594403007" duration="606000" />
-      <workItem from="1607605414218" duration="14402000" />
+      <workItem from="1607605414218" duration="15313000" />
     </task>
     <task id="LOCAL-00001" summary="Premier test">
       <created>1606989442040</created>
@@ -229,7 +231,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607631802355</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="test police">
+      <created>1607632118360</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1607632118360</updated>
+    </task>
+    <task id="LOCAL-00023" summary="test police 2">
+      <created>1607632228071</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1607632228071</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +306,9 @@
     <MESSAGE value="images +corrections" />
     <MESSAGE value="Menu 2" />
     <MESSAGE value="ajout logo retour accueil" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout logo retour accueil" />
+    <MESSAGE value="test police" />
+    <MESSAGE value="test police 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test police 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1607536908717">
@@ -317,10 +335,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="326" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1607555653397" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607630627872">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607632240802">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607630627872" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607632240802" />
     <state x="486" y="146" key="VcsDiffUtil.ChangesDialog" timestamp="1607555606368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
