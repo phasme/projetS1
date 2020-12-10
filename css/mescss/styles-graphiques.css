@@ -67,6 +67,13 @@
     height: 65px;
 }
 
+.barre>a>img{
+    height: 60px;
+    width: 177px;
+    margin: 0;
+    padding: 0;
+}
+
 .navigation-principale>ul>li>a{
     color: white;
     font-family: "Raleway Thin",sans-serif;
