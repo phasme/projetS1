@@ -26,7 +26,8 @@ Bleu pâle : #82A8AD
 }
 
 .titre-accueil>h2{
-    font-family: "Raleway ExtraBold", serif;
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
     font-size: 35px;
 }
 
@@ -38,13 +39,15 @@ Bleu pâle : #82A8AD
     color: #82A8AD;
 }
 
-.titre-accueil h3{
-    font-family: "Raleway Thin", sans-serif;
+.titre-accueil>h3{
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
 }
 
 /* texte presentation */
 .titre-presentation{
-    font-family: "Raleway Thin",sans-serif;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
     color: #06133D;
     text-align: center;
 }
@@ -67,7 +70,8 @@ footer>div>p{
 }
 
 .mention-légale>p{
-    font-family: "Raleway Thin", sans-serif;
+    font-family: "Raleway", sans-serif;
+    font-weight: 200;
     font-size: 12px;
     text-align: center;
 }
@@ -139,7 +143,8 @@ a{
     margin-top: 0;
     margin-bottom: 10px;
     padding-top: 10px;
-    font-family: "Raleway ExtraBold" , sans-serif;
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
     color: #06133D;
     font-size: 30px;
     margin-left: 20px;
@@ -149,7 +154,7 @@ a{
     color: #06133D;
     font-size: 20px;
     margin-left: 20px;
-    font-family: Raleway, sans-serif;
+    font-family: "Raleway", sans-serif;
     margin-top: 10px;
 }
 

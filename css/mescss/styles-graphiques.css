@@ -76,7 +76,8 @@
 
 .navigation-principale>ul>li>a{
     color: white;
-    font-family: "Raleway Thin",sans-serif;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
     display: block;
     border-top: white solid 1px;
     padding: 20px 20px;
@@ -84,7 +85,8 @@
     text-decoration: none;
 }
 .navigation-principale>ul>li>a:hover{
-    font-family: "Raleway Light",sans-serif;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
 }
 
 .navigation-principale>ul>li:nth-child(0n+1){
