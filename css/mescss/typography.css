@@ -120,6 +120,15 @@ article a{
     color: white;
 }
 
+.bleu-foncé a:hover, .bleu-nuit a:hover, .blanc a:hover{
+    color: #82A8AD;
+}
+
+.bleu-clair a:hover {
+    color: white;
+}
+
+
 a{
     color: #06133D;
 }
@@ -162,4 +171,8 @@ q{
 
 a.art-suiv:hover{
     color: #82A8AD;
+}
+
+.bleu-clair a.art-suiv:hover{
+    color: white;
 }
