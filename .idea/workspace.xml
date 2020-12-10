@@ -21,10 +21,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="Menu 2">
+    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="ajout logo retour accueil">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/styles-mise-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-mise-en-page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="af67d48e-ac9b-4c22-9fc8-d664185de670" name="Correction menu + Page accueil" comment="" />
@@ -82,7 +80,7 @@
       <workItem from="1607458592215" duration="13069000" />
       <workItem from="1607508380471" duration="17551000" />
       <workItem from="1607594403007" duration="606000" />
-      <workItem from="1607605414218" duration="13895000" />
+      <workItem from="1607605414218" duration="14402000" />
     </task>
     <task id="LOCAL-00001" summary="Premier test">
       <created>1606989442040</created>
@@ -224,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607630619796</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="ajout logo retour accueil">
+      <created>1607631802355</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1607631802355</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +289,8 @@
     <MESSAGE value="scroll fixed" />
     <MESSAGE value="images +corrections" />
     <MESSAGE value="Menu 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu 2" />
+    <MESSAGE value="ajout logo retour accueil" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout logo retour accueil" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1607536908717">
