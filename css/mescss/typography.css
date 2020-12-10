@@ -124,7 +124,7 @@ a{
     color: #06133D;
 }
 
-.blackmirror h1,.stockage h1, .avenir h1{
+.blackmirror h1,.stockage h1, .avenir h1, .scientifique h1{
     margin-top: 0;
     margin-bottom: 10px;
     padding-top: 70px;
@@ -134,7 +134,7 @@ a{
     margin-left: 20px;
 }
 
-.blackmirror h2,.stockage h2, .avenir h2{
+.blackmirror h2,.stockage h2, .avenir h2, .scientifique h2{
     color: #06133D;
     font-size: 20px;
     margin-left: 20px;
@@ -142,7 +142,7 @@ a{
     margin-top: 10px;
 }
 
-.blackmirror h3,.stockage h3, .avenir h3{
+.blackmirror h3,.stockage h3, .avenir h3, .scientifique h3{
     font-family: "Alegreya sans", sans-serif;
     font-weight: bold;
 }
