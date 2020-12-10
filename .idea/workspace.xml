@@ -21,12 +21,16 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="scroll fixed">
+    <list default="true" id="70d615bf-dd86-49f1-a60f-21becee8c379" name="Default Changelist" comment="images +corrections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/avenir.html" beforeDir="false" afterPath="$PROJECT_DIR$/avenir.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blackmirror.html" beforeDir="false" afterPath="$PROJECT_DIR$/blackmirror.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles-mise-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-mise-en-page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scientifique.html" beforeDir="false" afterPath="$PROJECT_DIR$/scientifique.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stockage.html" beforeDir="false" afterPath="$PROJECT_DIR$/stockage.html" afterDir="false" />
     </list>
     <list id="af67d48e-ac9b-4c22-9fc8-d664185de670" name="Correction menu + Page accueil" comment="" />
@@ -84,7 +88,7 @@
       <workItem from="1607458592215" duration="13069000" />
       <workItem from="1607508380471" duration="17551000" />
       <workItem from="1607594403007" duration="606000" />
-      <workItem from="1607605414218" duration="4601000" />
+      <workItem from="1607605414218" duration="12932000" />
     </task>
     <task id="LOCAL-00001" summary="Premier test">
       <created>1606989442040</created>
@@ -212,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607562208095</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="images +corrections">
+      <created>1607612631306</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607612631306</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +281,8 @@
     <MESSAGE value="corrections 2" />
     <MESSAGE value="Article scientifique + corrections" />
     <MESSAGE value="scroll fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="scroll fixed" />
+    <MESSAGE value="images +corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="images +corrections" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1607536908717">
@@ -309,9 +321,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="654" y="142" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1607348570909" />
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607509787850">
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607613777137">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607509787850" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607613777137" />
   </component>
 </project>

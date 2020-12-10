@@ -1,21 +1,14 @@
 body{
     margin: 0;
-    width: 375px;
+    width: 100%;
 }
 
 /* Menu */
-
-.navigation-principale{
-    position: fixed;
-    width: 375px;
-}
 .navigation-principale ul{
     padding: 0;
     margin: 0;
 }
-article.imgaccueil{
-    padding-top: 60px;
-}
+
 
 /* Footer */
 footer img{
