@@ -167,8 +167,41 @@ footer{
     padding: 10px;
 }
 
+/* Autres projets */
 
-/*pages*/
+.caroussel-projet img{
+    max-width: 100%;
+    height: auto;
+}
+.caroussel-projet{
+    background-color: #06133D;
+    color: white;
+    padding: 20px 0;
+}
 
+ul.projet-items{
+    list-style: none;
+    padding: 20px;
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
 
+li.projet-li{
+    flex: 1 0 220px;
+    margin-right: 20px;
+    scroll-snap-align: center;
+}
+
+.projet-li>a{
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    color: white;
+    margin-left: 30px;
+    text-decoration: none;
+}
+.projet-li>a:hover{
+    font-weight: 600;
+    color: #82A8AD;
+}
 
