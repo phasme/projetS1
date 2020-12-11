@@ -139,7 +139,7 @@ a{
     color: #06133D;
 }
 
-.blackmirror h1,.stockage h1, .avenir h1, .scientifique h1, .projets h1{
+.blackmirror h1,.stockage h1, .avenir h1, .scientifique h1, .projets h1, .page-contact h1{
     margin-top: 0;
     margin-bottom: 10px;
     padding-top: 10px;
@@ -150,7 +150,7 @@ a{
     margin-left: 20px;
 }
 
-.blackmirror h2,.stockage h2, .avenir h2, .scientifique h2, .projets h2{
+.blackmirror h2,.stockage h2, .avenir h2, .scientifique h2, .projets h2, .page-contact h2{
     color: #06133D;
     font-size: 20px;
     margin-left: 20px;
@@ -158,7 +158,12 @@ a{
     margin-top: 10px;
 }
 
-.blackmirror h3,.stockage h3, .avenir h3, .scientifique h3, .projets h3{
+.page-contact h1, .page-contact h2, .page-contact h3{
+    color: white;
+}
+
+
+.blackmirror h3,.stockage h3, .avenir h3, .scientifique h3, .projets h3, .page-contact h3{
     font-family: "Alegreya sans", sans-serif;
     font-weight: bold;
 }
@@ -183,3 +188,4 @@ a.art-suiv:hover{
 .bleu-clair a.art-suiv:hover{
     color: white;
 }
+
