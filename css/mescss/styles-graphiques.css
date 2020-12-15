@@ -241,4 +241,14 @@ button{
     padding: 10px 30px;
 }
 
+video{
+    width: 320px;
+    height: 180px;
+    margin-left: 20px;
+}
+
+.itw{
+    margin-left: 25px;
+}
+
 
